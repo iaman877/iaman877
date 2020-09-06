@@ -1,14 +1,7 @@
 ### Hi 👋 I'm [Aman](https://www.linkedin.com/in/199amanbhardwaj/)
 <br/>
 
-<a href="https://twitter.com/kudoabhijeet">
-  <img align="left" alt="Aman Bhardwaj | Twitter" width="22px" src="https://twitter.com/iaman877" />
-</a>
-<a href="https://www.linkedin.com/in/kudoabhijeet/">
-  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://www.linkedin.com/in/199amanbhardwaj/" />
-</a>
 
-<br />
 
 Hi, I am pursuing B.Tech (Computer Science and Engineering with specialization in the Internet of Things and Smart Cities) an Intern at  🏽‍💼[@Umbeo](https://www.umbeo.com/).
 
@@ -30,3 +23,9 @@ Here are some ideas to get you started:
 
 
 
+## Let's Connect :people_holding_hands:
+
+<p align='center'>
+<a href="https://twitter.com/kudoabhijeet"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/iaman877"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/linkedin.png?raw=true"></a>
+</p>

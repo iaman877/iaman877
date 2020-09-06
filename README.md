@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
-<a href="https://twitter.com/kudoabhijeet"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iaman877"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/iaman877"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/linkedin.png?raw=true"></a>
 </p>

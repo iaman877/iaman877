@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-###  Let's Connect :people_holding_hands:
 
+####  I am good at :
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
+####  Let's Connect :people_holding_hands:
 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 

@@ -1,7 +1,8 @@
 ### Hi 👋 I'm [Aman](https://www.linkedin.com/in/199amanbhardwaj/)
 
 <br/>
-Hi, I am pursuing B.Tech (Computer Science and Engineering with specialization in the Internet of Things and Smart Cities) & Intern at 💼[@Umbeo](https://www.umbeo.com/).
+
+Hi, I am pursuing B.Tech (Computer Science and Engineering with specialization in the Internet of Things and Smart Cities) & Intern at 💼 [@Umbeo](https://www.umbeo.com/)
 <!--
 **iaman877/iaman877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

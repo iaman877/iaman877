@@ -3,7 +3,7 @@
 
 
 
-Hi, I am pursuing B.Tech (Computer Science and Engineering with specialization in the Internet of Things and Smart Cities). and Intern at 💼[@Umbeo](https://www.umbeo.com/).
+Hi, I am pursuing B.Tech (Computer Science and Engineering with specialization in the Internet of Things and Smart Cities) & Intern at 💼[@Umbeo](https://www.umbeo.com/).
 
 
 

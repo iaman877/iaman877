@@ -22,14 +22,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####  I am good at :
+###  I am good at :
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
-####  Let's Connect :people_holding_hands:
+### Work Experience :computer_mouse: :desktop_computer: :keyboard:
+| Position | Organization | Timeline |
+| :- | :- | :- |
+|Embedded System Developer Intern  | [@umbeo](https://www.umbeo.com/) | Jan 2020 - March 2020 |
+| Project based Intern | [@i3indya](http://www.i3indyatechnologies.com/index.html?t=) |Feb 2020 - Feb 2020 |
+| Digital Literacy Intern  | [@nasscom](https://nasscomfoundation.org/) | May 2019 - May 2019 |
+
+
+###  Let's Connect :people_holding_hands:
 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 

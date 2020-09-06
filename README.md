@@ -5,10 +5,7 @@
 
 Hi, I am pursuing B.Tech (Computer Science and Engineering with specialization in the Internet of Things and Smart Cities) an Intern at  🏽‍💼[@Umbeo](https://www.umbeo.com/).
 
-<p align="right">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-  </p>
+
 
 <!--
 **iaman877/iaman877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

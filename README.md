@@ -20,6 +20,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+###  Let's Connect :people_holding_hands:
 
+
+
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+👔 [linkedin][linkedin] **|**
+
+[twitter]: https://twitter.com/iaman877
+[youtube]: https://www.youtube.com/channel/UCONxL5RPk3USmbyun01W6TA?view_as=subscriber
+[linkedin]: https://www.linkedin.com/in/199amanbhardwaj/
 
 

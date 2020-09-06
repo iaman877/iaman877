@@ -23,9 +23,3 @@ Here are some ideas to get you started:
 
 
 
-## Let's Connect :people_holding_hands:
-
-<p align='center'>
-<a href="https://twitter.com/iaman877"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/199amanbhardwaj/"><img height="30" src="![unnamed](https://user-images.githubusercontent.com/49730521/92318968-0c617a00-f031-11ea-94de-9177ed0af156.png"></a>
-</p>

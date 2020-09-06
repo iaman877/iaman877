@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <p align='center'>
 <a href="https://twitter.com/iaman877"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/iaman877"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/199amanbhardwaj/"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/linkedin.png?raw=true"></a>
 </p>

@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 ![Aman Bhardwaj's Github Stats](https://github-readme-stats.vercel.app/api?username=iaman877&theme=vision-friendly-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=vision-friendly-dark)
 
+### Thank you! for visiting my profile :blush:
+ <a href="https://github.com/iaman877/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=iaman877">
+</a>
+
 -->
 
 ###  Let's Connect :people_holding_hands:
@@ -53,7 +58,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCONxL5RPk3USmbyun01W6TA?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/199amanbhardwaj/
 
-### Thank you! for visiting my profile :blush:
- <a href="https://github.com/iaman877/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=iaman877">
-</a>
+

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ###  I am good at :
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![Aman Bhardwaj's Github Stats](https://github-readme-stats.vercel.app/api?username=iaman877&theme=vision-friendly-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=vision-friendly-dark)
 
+-->
 
 ###  Let's Connect :people_holding_hands:
 

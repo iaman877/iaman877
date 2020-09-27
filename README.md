@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Jenkins, Docker, Terraform and other DevOps tools;
 - 🌱 I’m currently learning App Dev and Cloud Technologies;
-- 🤔 I’m looking for help with with Cloud based Projects.
+- 🤔 I’m looking for help with  Cloud based Projects.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...

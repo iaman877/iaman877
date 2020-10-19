@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 |Embedded System Developer Intern  | [@umbeo](https://www.umbeo.com/) | Jan 2020 - March 2020 |
 | Project based Intern | [@i3indya](http://www.i3indyatechnologies.com/index.html?t=) |Feb 2020 - Feb 2020 |
 | Digital Literacy Intern  | [@nasscom](https://nasscomfoundation.org/) | May 2019 - May 2019 |
-
+📺 [youtube][youtube] **|** 
+[youtube]: https://www.youtube.com/channel/UCONxL5RPk3USmbyun01W6TA?view_as=subscriber
 -->
 
 ### I :heart: GitHub :octocat:
@@ -50,7 +51,6 @@ Here are some ideas to get you started:
 ###  Let's Connect :people_holding_hands:
 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 👔 [linkedin][linkedin] **|**
 
 [twitter]: https://twitter.com/iaman877

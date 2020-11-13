@@ -37,14 +37,16 @@ Here are some ideas to get you started:
 📺 [youtube][youtube] **|** 
 [youtube]: https://www.youtube.com/channel/UCONxL5RPk3USmbyun01W6TA?view_as=subscriber
 -->
-
-### I :heart: GitHub :octocat:
-<img src = "https://github-readme-stats.vercel.app/api?username=iaman877&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+<img src = "https://github-readme-stats.vercel.app/api?username=iaman877&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Aman Bhardwaj's Github Stats](https://github-readme-stats.vercel.app/api?username=iaman877&theme=vision-friendly-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=vision-friendly-dark)
 -->
 
+
+### I :heart: GitHub :octocat:
+![image](https://user-images.githubusercontent.com/49730521/99081341-a96c0080-25e8-11eb-88b8-a3953063f483.png)
 
 
 

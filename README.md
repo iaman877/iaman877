@@ -50,14 +50,13 @@ Here are some ideas to get you started:
 
 ###  Let's Connect :people_holding_hands:
 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin] **|**
-📺 [youtube][youtube] **|** 
+<ul style="list-style:none:>
+           
+<a href="amanbhardwaj.gps@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"></a>
+<a href="https://www.linkedin.com/in/199amanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> 
 
-[twitter]: https://twitter.com/iaman877
-[youtube]: https://www.youtube.com/channel/UCONxL5RPk3USmbyun01W6TA?view_as=subscriber
-[linkedin]: https://www.linkedin.com/in/199amanbhardwaj/
-[youtube]: https://www.youtube.com/channel/UCONxL5RPk3USmbyun01W6TA?view_as=subscriber
+</ul>
+
 
 ### Thank you! for visiting my profile :blush:
  <a href="https://github.com/iaman877/github-profile-views-counter">

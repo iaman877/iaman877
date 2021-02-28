@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ###  Let's Connect :people_holding_hands:
 
-<style="list-style:none:>
+
            
 <a href="https://www.linkedin.com/in/199amanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> 
 

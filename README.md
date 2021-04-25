@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 | Project based Intern | [@i3indya](http://www.i3indyatechnologies.com/index.html?t=) |Feb 2020 - Feb 2020 |
 | Digital Literacy Intern  | [@nasscom](https://nasscomfoundation.org/) | May 2019 - May 2019 |
 
+
+[<img src="https://github-profile-trophy.vercel.app/?username=iaman877&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman877&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img src = "https://github-readme-stats.vercel.app/api?username=iaman877&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -48,14 +50,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-###  Let's Connect :people_holding_hands:
-
-
-           
+###  Let's Connect :people_holding_hands:           
 <a href="https://www.linkedin.com/in/199amanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> 
-
-
-
 
 ### Thank you! for visiting my profile :blush:
  <a href="https://github.com/iaman877/github-profile-views-counter">

@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman877&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img src="https://github-profile-trophy.vercel.app/?username=iaman877&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+<img src = "https://github-readme-stats.vercel.app/api?username=iaman877&&show_icons=true&theme=radical">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 - 🔭 I’m currently working on Jenkins, Docker, Terraform and other DevOps tools;
@@ -35,8 +39,23 @@ Here are some ideas to get you started:
 | Digital Literacy Intern  | [@nasscom](https://nasscomfoundation.org/) | May 2019 - May 2019 |
 
 
-[<img src="https://github-profile-trophy.vercel.app/?username=iaman877&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman877&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<img src = "https://github-readme-stats.vercel.app/api?username=iaman877&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<br/>  
+<h2><summary align="center">Github Stats 📈</summary></h2>
+<p align="center">
+<img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=iaman877&show_icons=true&count_private=true&theme=radical">
+<img align= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)">
+</p>
+<br>
+
+<p align="center">
+  <a>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman877&theme=dark&hide_border=true"/>
+</p>
+
+
 
 
 ###  I am good at :

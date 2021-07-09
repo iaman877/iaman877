@@ -39,28 +39,28 @@ Here are some ideas to get you started:
 | Digital Literacy Intern  | [@nasscom](https://nasscomfoundation.org/) | May 2019 - May 2019 |
 
 
-
-
-
-<br/>  
 <h2><summary align="center">Github Stats 📈</summary></h2>
 <p align="center">
 <img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=iaman877&show_icons=true&count_private=true&theme=radical">
-<img align= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)">
 </p>
-<br>
+
+
+<p align="center">
+  <a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaman877&layout=compact&theme=merko"/>
+</p>
+
 
 <p align="center">
   <a>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman877&theme=dark&hide_border=true"/>
 </p>
 
+  
 
-
-
-###  I am good at :
+####  Tools & Technology discovered so far  :
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -69,10 +69,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-###  Let's Connect :people_holding_hands:           
-<a href="https://www.linkedin.com/in/199amanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> 
 
-### Thank you! for visiting my profile :blush:
  <a href="https://github.com/iaman877/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iaman877">
 </a>
